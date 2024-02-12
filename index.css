@@ -342,6 +342,18 @@ span{
     display: flex;
 }
 
+.cta{
+   
+    background-position:center ;
+    background-size: cover;
+    display: flex;
+    border: 40%;
+    justify-content: flex-start;
+}
+section{
+    background-color: #d0ded2;
+}
 
-
-
+.cta-text{
+    
+}
